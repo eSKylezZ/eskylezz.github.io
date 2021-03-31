@@ -1,16 +1,15 @@
 <!DOCTYPE html>
 <!--
-	Hielo by TEMPLATED	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)-->
+	Hielo by TEMPLATED	templated.co @templatedco	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)-->
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title>Hielo by TEMPLATED</title>
+    <title>433eros.space</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'">
     <link rel="stylesheet" href="assets/css/main.css">
   </head>
-  <body>
-    <!-- Header -->
+  <body> <!-- Header -->
     <header id="header" class="alt">
       <div class="logo"><a href="index.html"><span><br>
           </span></a></div>
